@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Wats</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_home">Accueil</string>
+    <string name="action_back">Retour</string>
+
+    <string name="modelschool_title">Ecole Mannequin</string>
+    <string name="modelschool_desc">
+        Ecole de mannequin est un programme de formation unique et non classique dans les métiers du
+        mannequinat et assimilé pour des personnes de tout âge, sexe, poids, niveaux scolaire au Cameroun.
+\n
+Nos Diplômes :\n
+La formation se décline en (03) trois niveaux avec des stages et des examens sanctionnés à la fin par des diplômes distincts.
+Niveau 1 :\n
+\t-	Durée : 3 mois (cours pratiques et théoriques)\n
+\t-	Stage : 2 semaines (20H de stage)\n
+\t-	Diplôme : Certificat d\’Initiation au Mannequinat (CIM)\n
+\n
+Niveau 2 :\n
+\t-	Durée : 4 mois (cours pratiques et théoriques)\n
+\t-	Stage : 1 mois (40H de stage)\n
+\t-	Diplôme : Certificat d\’Aptitude au Mannequinat (CAM)\n
+\n
+\nNiveau 3 :\n
+\t-	Durée : 2 mois (cours pratiques et théoriques)\n
+\t-	Stage : 2 mois (400H de stage)\n
+\n
+\nCoût de Formation :\n
+La formation est gratuite. L\’inscription s’élève à 20 000 F CFA.
+
+\n>	Catégorie
+\n\t-	Enfant [8 ans – 13 ans]
+\n\t-	Junior [14 ans – 18 ans]
+\n\t-	Normal [16 ans – 25 ans]
+\n\t-	Senior [26 ans et plus]
+\n
+\n	Formation
+\n\t-	Mannequin Poduim
+\n\t-	Mannequin Photos
+\n\t-	Hôtesse / Steward
+\n\t-	Mannequin de mode
+\n\t-	Hôtesse de l’Air
+    </string>
+    <string name="consult_title">Consultation</string>
+    <string name="consult_desc"></string>
+    <string name="univ_title">Portail Académique</string>
+    <string name="univ_desc"></string>
+    <string name="setting_title">Configuration</string>
+    <string name="setting_desc"></string>
+    <string name="title_activity_model_school">Ecole Mannequin</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="hint_noms">Entrez le nom </string>
+    <string name="hint_prenoms">Entrez le prénom</string>
+    <string name="hint_sexe">Sexe :</string>
+    <string name="hint_lieu_nais">Entrer le lieu de naissance</string>
+    <string name="hint_nationalite">Entrer la nationalité</string>
+    <string name="hint_type_piece">Choisir le type de pièce d\'identité utilisé</string>
+    <string name="hint_no_piece_1">Entrer le numero de la CNI</string>
+    <string name="hint_no_piece_2">Entrer le numero du passeport</string>
+    <string name="hint_poids">Entrer son poids</string>
+    <string name="hint_taille">Entrer sa taille</string>
+    <string name="hint_ville_res">Entrer la ville de résidence</string>
+    <string name="hint_quartier">Entrer le quartier</string>
+    <string name="hint_phone">Entrer le téléphone</string>
+    <string name="hint_email">Entrer l\'adresse email</string>
+
+    <string name="sexe_feminin">Féminin</string>
+    <string name="sexe_masculin">Masculin</string>
+    <string name="title_form">Formulaire d\'inscription</string>
+
+    <string name="amount_text">Montant :</string>
+    <string name="currency_text">F CFA</string>
+    <string name="send_text">Soumettre</string>
+
+    <string name="type_piece_prompt">Formulaire d\'inscription</string>
+    <string-array name="types_piece">
+        <item>Carte Nationale d\'Identité</item>
+        <item>Passeport</item>
+    </string-array>
+
+    <string name="formation_prompt">Sélectionner la Formation de votre choix</string>
+    <string-array name="formations">
+        <item>Mannequin Poduim</item>
+        <item>Mannequin Photos</item>
+        <item>Hôtesse / Steward</item>
+        <item>Mannequin de mode</item>
+        <item>Hôtesse de l’Air</item>
+    </string-array>
+
+    <string name="niveau_prompt">Sélectionner le niveau</string>
+    <string-array name="niveaux">
+        <item>Niveau 1 : CIM</item>
+        <item>Niveau 2 : CAM</item>
+        <item>Niveau 3 : PRO</item>
+    </string-array>
+
+    <string name="categorie_prompt">Sélectionner la catégorie</string>
+    <string-array name="categories">
+        <item>Enfant [8 ans – 13 ans]</item>
+        <item>Junior [14 ans – 18 ans]</item>
+        <item>Normal [16 ans – 25 ans]</item>
+        <item>Senior [26 ans et plus]</item>
+    </string-array>
+
+    <string name="service_prompt">Service : </string>
+    <string name="portal_item_1">Groupes de Répétition</string>
+    <string name="portal_item_2">Préparation aux Grands Concours</string>
+    <string name="portal_item_3">Formations aux Langues Etrangères</string>
+    <string name="portal_item_4">Autres Formations</string>
+    <string name="portal_item_5">Evènements Et Informations</string>
+    <string name="portal_item_back">Retour à l\'Accueil</string>
+</resources>

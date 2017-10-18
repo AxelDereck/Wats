@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/portal_1"
+        android:text="@string/portal_item_1"
+        android:drawableLeft="@mipmap/ic_section_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/portal_2"
+        android:text="@string/portal_item_2"
+        android:drawableLeft="@mipmap/ic_section_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/portal_3"
+        android:text="@string/portal_item_3"
+        android:drawableLeft="@mipmap/ic_section_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/portal_4"
+        android:text="@string/portal_item_4"
+        android:drawableLeft="@mipmap/ic_section_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/portal_5"
+        android:text="@string/portal_item_5"
+        android:drawableLeft="@mipmap/ic_section_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/portal_back"
+        android:text="@string/portal_item_back"
+        android:drawableLeft="@mipmap/ic_back_square"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
